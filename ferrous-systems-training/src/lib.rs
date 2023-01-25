@@ -4,3 +4,7 @@ pub mod little_helpers;
 pub mod error_handling;
 pub mod mutability;
 pub mod ownership_and_borrowing;
+pub mod strings;
+pub mod drop_panic_abort;
+pub mod iterators;
+pub mod functions;

@@ -97,7 +97,7 @@ pub fn run() {
     println!("square has an area of {}", square.calc_area());
     square.destroy();
     // This line won't compile
-    println!("Area: {}", square.calc_area());
+    // println!("Area: {}", square.calc_area());
 }
 
 // methods that can access data

@@ -8,3 +8,5 @@ pub mod strings;
 pub mod drop_panic_abort;
 pub mod iterators;
 pub mod functions;
+pub mod stack_and_heap;
+pub mod testing;

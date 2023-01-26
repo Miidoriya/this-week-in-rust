@@ -1,5 +1,5 @@
 use ferrous_systems_training::{
-    compound_types, control_flow, error_handling, little_helpers, ownership_and_borrowing, strings, iterators, functions,
+    compound_types, control_flow, error_handling, little_helpers, ownership_and_borrowing, strings, iterators, functions, stack_and_heap, testing,
 };
 
 fn main() {
@@ -12,4 +12,5 @@ fn main() {
     strings::run();
     iterators::run();
     functions::run();
+    stack_and_heap::run();
 }

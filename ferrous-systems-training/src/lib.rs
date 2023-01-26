@@ -10,3 +10,4 @@ pub mod iterators;
 pub mod functions;
 pub mod stack_and_heap;
 pub mod testing;
+pub mod simple_generics;
